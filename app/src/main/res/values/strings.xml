@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="this_is_the_order_fragment">This is the order fragment</string>
+</resources>
